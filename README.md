@@ -2,7 +2,7 @@
 DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 
 ## Minggu ke 1
-
+- instal ubuntu server menggunakan VMware 
 - Ini gambar apa
 - ![Gambar](week-1/assets/Screenshot%20(1).png)
 - ![Gambar](week-1/assets/Screenshot%20(10).png)

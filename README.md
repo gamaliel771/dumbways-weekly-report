@@ -5,6 +5,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 - Setup ubuntu server di VMWare & Install aplikasi nginx
 - Setup ubuntu server di AWS & Deploy aplikasi frontend
 - [Baca lebih lanjut](week-1/README.md)
+- Ini gambar apa
 - ![Gambar](week-1/assets/Screenshot%20(1).png)
 - ![Gambar](week-1/assets/Screenshot%20(10).png)
 

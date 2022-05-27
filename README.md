@@ -47,7 +47,29 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 ![Gambar](week-1/assets/Screenshot%20(252).png)
 - setelah konfigurasi selesai maka DHCP akan berubah menjadi Static
 ![Gambar](week-1/assets/Screenshot%20(253).png)
-- 
+- untuk tahap ini kita bisa memilih Custom storage layout, karena kita akan membuat 2 partisi baru, Done 
+![Gambar](week-1/assets/Screenshot%20(254).png)
+- selanjutnya kita akan membuat 2 partisi baru yaitu root dan swap. ROOT adalah tempat dimana sistem kita instal, sedangkan SWAP adalah cadangan memori yang digunakan untuk server kita. 
+caranya adalah pilih bagian /dev/sda lalu pilih Add GPT Partition. 
+![Gambar](week-1/assets/Screenshot%20(255).png)
+![Gambar](week-1/assets/Screenshot%20(256).png)
+- jika sudah selesai maka klik done 
+![Gambar](week-1/assets/Screenshot%20(257).png)
+- jika muncul popup seperti gambar dibawah ini kita bisa pilih continue saja 
+![Gambar](week-1/assets/Screenshot%20(258).png)
+- oke setelah semua sudah terseting maka kita akan dibawa ke halaman informasi untuk penamaan server kita 
+![Gambar](week-1/assets/Screenshot%20(259).png)
+- setelah itu kita pilih Install OpenSSH server yang bertujuan untuk meremote server kita.
+![Gambar](week-1/assets/Screenshot%20(262).png)
+- tahap ini bisa skip atau klik done
+![Gambar](week-1/assets/Screenshot%20(263).png)
+- selanjutnya kita sudah sampai tahap penginstalan, kita tunggu saja proses penginstalan sampai seleai hingga muncul pilihan rebot now.
+![Gambar](week-1/assets/Screenshot%20(264).png)
+![Gambar](week-1/assets/Screenshot%20(265).png)
+- tahap instalasi sudah selesai, maka akan ada perintah untuk memasukkan ID dan Password yang sudah kita seting sebelumnya.
+![Gambar](week-1/assets/Screenshot%20(267).png)
+- untuk memastikan apakah server kita terhubung dengan internet, maka kita bisa ketik perintah ping google.com atau ping 8.8.8.8
+![Gambar](week-1/assets/Screenshot%20(268).png)
 
 
 ## Minggu ke 2

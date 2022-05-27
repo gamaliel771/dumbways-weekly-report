@@ -2,7 +2,7 @@
 DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 
 ## Minggu ke 1
-- instal ubuntu server menggunakan VMware 
+- instal ubuntu server menggunakan VMware  
 - VMware Environment 
 1. Disk : 10GB 
 2. Memory : 2GB
@@ -16,9 +16,15 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 5. Password : ********
 6. Server Name : gama
 7. Open SSH : True
-- Ini gambar apa
-- ![Gambar](week-1/assets/Screenshot%20(1).png)
-- ![Gambar](week-1/assets/Screenshot%20(10).png)
+- instal aplikasi VMware kemudian pilih Create A New Virtual Machine
+ ![Gambar](week-1/assets/Screenshot%20(212).png)
+- setelah itu maka akan muncul gambar seperti dibawah ini, kita bisa memilih Use ISO Image. kemudian pilih browse, maka kita akan diarahkan ke folder penyimpanan file ubuntu server yang kita download. 
+  ![Gambar](week-1/assets/Screenshot%20(214).png)
+- setelah klik next, maka kalian bisa mengisi UserName dan Password yang kita inginkan. 
+![Gambar](week-1/assets/Screenshot%20(215).png)
+- langkah selanjutnya kita diminta untuk memilih lokasi penyimpanan mesin virtual kita
+![Gambar](week-1/assets/Screenshot%20(216).png)
+- 
 
 ## Minggu ke 2
 - Setup git & Ssh key

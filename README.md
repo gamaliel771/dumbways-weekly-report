@@ -3,6 +3,19 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 
 ## Minggu ke 1
 - instal ubuntu server menggunakan VMware 
+- VMware Environment 
+1. Disk : 10GB 
+2. Memory : 2GB
+3. Processors : 2 Cores
+4. Network : NAT 
+- Ubuntu Setting 
+1. Bahasa : English
+2. Network : Static
+3. Storge : Custom Storge Layout
+4. Username : gamaliel 
+5. Password : ********
+6. Server Name : gama
+7. Open SSH : True
 - Ini gambar apa
 - ![Gambar](week-1/assets/Screenshot%20(1).png)
 - ![Gambar](week-1/assets/Screenshot%20(10).png)

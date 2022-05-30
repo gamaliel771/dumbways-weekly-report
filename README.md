@@ -46,7 +46,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 4. Name Server = cukup masukkan DNS dari google 
 ![Gambar](week-1/assets/Screenshot%20(288).png)
 - setelah konfigurasi selesai maka DHCP akan berubah menjadi Static
-![Gambar](week-1/assets/Screenshot%20(253).png)
+![Gambar](week-1/assets/Screenshot%20(289).png)
 - untuk tahap ini kita bisa memilih Custom storage layout, karena kita akan membuat 2 partisi baru, Done 
 ![Gambar](week-1/assets/Screenshot%20(254).png)
 - selanjutnya kita akan membuat 2 partisi baru yaitu root dan swap. ROOT adalah tempat dimana sistem kita instal, sedangkan SWAP adalah cadangan memori yang digunakan untuk server kita. 

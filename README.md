@@ -44,7 +44,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 2. Alamat = IP yang digunakan untuk virtual Machine kita
 3. Gateway = perangkan untuk mengkoneksikan komputer satu dengan yang lainnya
 4. Name Server = cukup masukkan DNS dari google 
-
+![Gambar](week-1/assets/Screenshot%20(288).png)
 - setelah konfigurasi selesai maka DHCP akan berubah menjadi Static
 ![Gambar](week-1/assets/Screenshot%20(253).png)
 - untuk tahap ini kita bisa memilih Custom storage layout, karena kita akan membuat 2 partisi baru, Done 

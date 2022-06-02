@@ -68,8 +68,8 @@ caranya adalah pilih bagian /dev/sda lalu pilih Add GPT Partition.
 ![Gambar](week-1/assets/Screenshot%20(265).png)
 - tahap instalasi sudah selesai, maka akan ada perintah untuk memasukkan ID dan Password yang sudah kita seting sebelumnya.
 ![Gambar](week-1/assets/Screenshot%20(267).png)
-- untuk memastikan apakah server kita terhubung dengan internet, maka kita bisa ketik perintah ping google.com atau ping 8.8.8.8
-![Gambar](week-1/assets/Screenshot%20(268).png)
+- untuk memastikan apakah server kita terhubung dengan internet, maka kita bisa ketik perintah ping google.com atau ping google.com
+![Gambar](week-1/assets/Screenshot%20(292).png)
 
 
 ## Minggu ke 2

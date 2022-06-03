@@ -68,3 +68,7 @@ pertama tama kita akan menginstal node.js menggunakan nvm dengan melakukan perin
 
 ![Gambar](assets/photo1654213800.jpeg)
 
+`exec bash`
+`nvm install 14`
+`node -v`
+![Gambar](assets/photo1654213862.jpeg)

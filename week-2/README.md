@@ -33,4 +33,5 @@ maka kita akan dibawa ke laman text editor, setelah masuk ke text editor kita bi
 
 kita bisa kombinasi CTRL+O untuk save dan CTRL+X untuk keluar dari text editor.
 untuk mengkonvifirmasi ip kita bisa menggunakan perintah 
+sudo netplan apply
 

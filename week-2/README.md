@@ -45,15 +45,26 @@ SSH gama@172.16.108.25
 
 # Install aplikasi web server apache di linux server
 
-pertama instal apache2 dengan melakukan perintah :
-sudo apt install apache2
+pertama instal apache2 dengan melakukan perintah 
+`sudo apt install apache2`
 ![Gambar](assets/photo1654162978.jpeg)
 ![Gambar](assets/photo1654163044.jpeg)
 
 jika proses penginstalan selesai, kita bisa cek statatus apache dengan mengetik perintah
-: sudo systemctl status apache2
+ `sudo systemctl status apache2`
 ![Gambar](assets/photo1654165081.jpeg).
 apabila sudah aktif bisa kita cek di browser dengan mengetik IP server 
 ![Gambar](assets/photo1654165645.jpeg)
 apabila tampilan sudah seperti diatas maka ip server sudah berhasil terinstal
+
+# Buatlah localtunnel pada web server apache2
+Localtunel adalah toos yang memungkinkan kita untuk berbagi layanan lokal ke publik dengan url yang disediakan oleh url localtunel.
+
+pertama tama kita akan menginstal node.js menggunakan nvm dengan melakukan perintah
+`sudo apt install curl`
+![Gambar](assets/photo1654165769.jpeg)
+
+`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash`
+
+![Gambar](assets/photo1654213800.jpeg)
 

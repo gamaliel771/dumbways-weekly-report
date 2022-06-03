@@ -75,3 +75,16 @@ pertama tama kita akan menginstal node.js menggunakan nvm dengan melakukan perin
 `node -v`
 
 ![Gambar](assets/photo1654213862.jpeg)
+
+selanjutnya kita akan instal local tunnel dengan nvm yang sudah kita instal
+
+`npm install -g localtunnel`
+![Gambar](assets/photo1654214426.jpeg)
+
+untuk menjalankan localtunel pada aplikasi apache yang sudah kita instal, kita masukkan perintah 
+`lt — port 80`
+![Gambar](assets/photo1654214586.jpeg)
+
+salin URL lalu pastekan di browser,
+
+![Gambar](assets/photo165421458.jpeg)

@@ -30,6 +30,7 @@ untuk merubah, kta perlu membuat perintah
 ![Gambar](assets/photo1654230166.jpeg)
 maka kita akan dibawa ke laman text editor, setelah masuk ke text editor kita bisa merubah ip dibagian addresses. 
 ![Gambar](assets/photo1654158778.jpeg)
+
 kita bisa kombinasi CTRL+O untuk save dan CTRL+X untuk keluar dari text editor.
 untuk mengkonvifirmasi ip kita bisa menggunakan perintah 
 

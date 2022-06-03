@@ -46,10 +46,10 @@ SSH gama@172.16.108.25
 # Install aplikasi web server apache di linux server
 
 pertama instal apache2 dengan melakukan perintah :
-
 sudo apt install apache2
 ![Gambar](assets/photo1654162978.jpeg)
 ![Gambar](assets/photo1654163044.jpeg)
+
 jika proses penginstalan selesai, kita bisa cek statatus apache dengan mengetik perintah
 : sudo systemctl status apache2
 ![Gambar](assets/photo1654165081.jpeg).

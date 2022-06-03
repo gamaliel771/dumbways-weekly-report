@@ -25,7 +25,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja!
 - langkah selanjutnya kita diminta untuk memilih lokasi penyimpanan mesin virtual kita
 ![Gambar](assets/Screenshot%20(216).png)
 - pada tahap ini kita akan mengatur ukuran Disk yang aka digunakan. STORE DISK AS A SINGLE FILE artinya penyimpanan Disk akan dibuat menjadi satu file ( tidak disarankan untuk kapasitas kecil), SPLIT VIRTUAL DISK INTO MULTIPLE FILES penyimpanan Disk akan dibagi menjadi beberapa bagian. karena saya menggunakan Device berkapasitas kecil maka saya memilih SPLIT VIRTUAL DISK INTO MULTIPLE FILES
-![Gambar](/assets/Screenshot%20(12).png)
+![Gambar](assets/Screenshot%20(214).png)
 - karena kita akan merubah setingan hardware untuk server, maka kita bisa memilih customize hardware, setelah muncul jendela baru kita akan mengcustom server sesuai yang kita inginkan. 
 1. Memory bekerja untuk menyimpan data Virtual Machine
 2. Processors bekerja untuk memproses data dan mengontrol system yang ada pada Virtual Machine

@@ -1,7 +1,7 @@
 # DevOps Engineer - DumbWays.id
 
 
-## Minggu ke 1
+# Minggu ke 1
 - instal ubuntu server menggunakan VMware  
 - VMware Environment 
 1. Disk : 10GB 
